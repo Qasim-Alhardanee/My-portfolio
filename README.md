@@ -18,7 +18,7 @@ A modern, performant personal portfolio website built to showcase my projects, s
 <!-- Replace the paths below with your actual screenshot files -->
 | Home | Projects | Project Detail |
 |------|----------|----------------|
-| ![Home](./screenshots/home.png) | ![Projects](./screenshots/projects.png) | ![Detail](./screenshots/detail.png) |
+| ![Home](./screenshots/home.png) | ![Projects](./screenshots/projects.png) | ![Detail](./screenshots/Detail.png) |
 
 ---
 
